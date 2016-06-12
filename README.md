@@ -1,5 +1,19 @@
 # TecnicalChallenge1
-Has some practice code
+To execute this code
+
+Create a new java project in Eclipse or an other IDE
+Import Apache POI jars in project so that it can work on .xls file.
+please keep .java files in appropriate packagaes.
+keep .xls files inside SRC folder.
+Configure the configure.properties file for baseLocation.
+Baselocation is path upto src folder of project.
+
+Following business logic is covered in thi assignment.
+No any UI is developed.
+Output can be seen by executing file
+Settled.java for Task1
+Unsettled.java for Task 2
+
 
 
 Task1 :
